@@ -16,6 +16,7 @@ for (let i = 1; i <= 7; i++) {
     }
     haftalikCizelge.push(cizelge);
 }
+
 console.log(haftalikCizelge);
 
 
